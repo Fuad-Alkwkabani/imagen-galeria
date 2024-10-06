@@ -23,9 +23,9 @@ img {
 }
 @media (max-width:600px){
     .card{
-        flex: 100%;
+        flex: 100%;}
 }
 @media (max-width:600px){
     .card{
-        flex: 50%;
+        flex: 50%;}
 }
